@@ -1,0 +1,4 @@
+<bean id="Car" class="com.spring.feizuo.Car">
+    <property name="color" value="yellow" />
+    <property name="speed" value="15ms" />
+</bean>
